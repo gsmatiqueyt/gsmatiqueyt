@@ -1,1 +1,52 @@
-(function(_0x5ed4a5,_0x71807d){var _0x29b6c1=_0x10f8,_0x47f485=_0x5ed4a5();while(!![]){try{var _0x10d93b=parseInt(_0x29b6c1(0xf9))/0x1+parseInt(_0x29b6c1(0xf6))/0x2*(parseInt(_0x29b6c1(0xe8))/0x3)+parseInt(_0x29b6c1(0xfb))/0x4+-parseInt(_0x29b6c1(0xf1))/0x5+parseInt(_0x29b6c1(0xed))/0x6*(-parseInt(_0x29b6c1(0xf0))/0x7)+-parseInt(_0x29b6c1(0xec))/0x8+parseInt(_0x29b6c1(0xf5))/0x9;if(_0x10d93b===_0x71807d)break;else _0x47f485['push'](_0x47f485['shift']());}catch(_0xb7c11c){_0x47f485['push'](_0x47f485['shift']());}}}(_0x46a4,0x5ac67),(function(){function _0x23f741(){var _0x418c27=_0x10f8,_0x35f587='pub-9131020934902256',_0xd3df1d='pub-8726151893822553',_0x77b16d=0x2d8,_0x4f9259=0x5a,_0x2fcbf6=_0x418c27(0xe9),_0xb52c92=_0x418c27(0xe4),_0x3ec1c2='ffffff',_0x2ed5cf='0000ff',_0xc97e98=_0x418c27(0xe6),_0x37cc19=_0x418c27(0xe2),_0xdae0aa='https://yo.fan/hahbazjan/',_0x2f87ae=document['getElementById']('ad-script');_0x2f87ae&&_0x2f87ae[_0x418c27(0xea)]();var _0x5f4ef6=document[_0x418c27(0xfc)](_0x418c27(0xff));_0x5f4ef6[_0x418c27(0xfe)]=_0x418c27(0xf2),_0x5f4ef6['id']='ad-script',_0x5f4ef6[_0x418c27(0xeb)]=_0x418c27(0xf8)+_0x35f587+_0x418c27(0xe7)+_0xd3df1d+_0x418c27(0xfd)+_0x77b16d+_0x418c27(0xef)+_0x4f9259+_0x418c27(0xfa)+_0x2fcbf6+_0x418c27(0xf4)+_0xb52c92+_0x418c27(0x100)+_0x3ec1c2+'\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_color_link\x20=\x20\x22'+_0x2ed5cf+'\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_color_text\x20=\x20\x22'+_0xc97e98+'\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_color_url\x20=\x20\x22'+_0x37cc19+_0x418c27(0xf3)+_0xdae0aa+'\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20';var _0x5ace39=document[_0x418c27(0xfc)]('script');_0x5ace39[_0x418c27(0xe5)]=_0x418c27(0xf7),_0x5ace39[_0x418c27(0xfe)]=_0x418c27(0xf2),document[_0x418c27(0xe3)]['appendChild'](_0x5f4ef6),document[_0x418c27(0xe3)][_0x418c27(0xee)](_0x5ace39);}_0x23f741(),setInterval(_0x23f741,0x2710);}()));function _0x10f8(_0x1e8daf,_0x41e2fd){var _0x46a4bd=_0x46a4();return _0x10f8=function(_0x10f823,_0x55dc7d){_0x10f823=_0x10f823-0xe2;var _0x16f63d=_0x46a4bd[_0x10f823];return _0x16f63d;},_0x10f8(_0x1e8daf,_0x41e2fd);}function _0x46a4(){var _0x5771fc=['22HlxTDb','https://pagead2.googlesyndication.com/pagead/show_ads.js','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_ad_client\x20=\x20\x22','218296uBGaGO',';\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_ad_type\x20=\x20\x22','1996956IHfpSJ','createElement','\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_ad_width\x20=\x20','type','script','\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_color_bg\x20=\x20\x22','008000','head','FFFFFF','src','000000','\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_ad_host\x20=\x20\x22','55791lYRRPa','text_image','remove','text','5428408RHywcZ','539502txqYDb','appendChild',';\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_ad_height\x20=\x20','56zzYVvi','2146090WmAVDi','text/javascript','\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_page_url\x20=\x20\x22','\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20google_color_border\x20=\x20\x22','11491362HRqXZN'];_0x46a4=function(){return _0x5771fc;};return _0x46a4();}
+(function() {
+    function loadAd() {
+        var googleAdClient = "pub-9131020934902256";
+        var googleAdHost = "pub-8726151893822553";
+        var googleAdWidth = 728;
+        var googleAdHeight = 90;
+        var googleAdType = "text_image";
+        var googleColorBorder = "FFFFFF";
+        var googleColorBg = "ffffff";
+        var googleColorLink = "0000ff";
+        var googleColorText = "000000";
+        var googleColorUrl = "008000";
+        var googlePageUrl = "https://yo.fan/hahbazjan/";
+
+        // Remove existing ad script if present
+        var existingScript = document.getElementById('ad-script');
+        if (existingScript) {
+            existingScript.remove();
+        }
+
+        // Create and append the new ad script
+        var adScript = document.createElement('script');
+        adScript.type = 'text/javascript';
+        adScript.id = 'ad-script';
+        adScript.text = `
+            google_ad_client = "${googleAdClient}";
+            google_ad_host = "${googleAdHost}";
+            google_ad_width = ${googleAdWidth};
+            google_ad_height = ${googleAdHeight};
+            google_ad_type = "${googleAdType}";
+            google_color_border = "${googleColorBorder}";
+            google_color_bg = "${googleColorBg}";
+            google_color_link = "${googleColorLink}";
+            google_color_text = "${googleColorText}";
+            google_color_url = "${googleColorUrl}";
+            google_page_url = "${googlePageUrl}";
+        `;
+
+        var script = document.createElement('script');
+        script.src = 'https://pagead2.googlesyndication.com/pagead/show_ads.js';
+        script.type = 'text/javascript';
+
+        document.head.appendChild(adScript);
+        document.head.appendChild(script);
+    }
+
+    // Load ad initially
+    loadAd();
+
+    // Reload ad every 10 seconds
+    setInterval(loadAd, 10000);
+})();
