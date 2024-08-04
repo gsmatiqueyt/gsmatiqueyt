@@ -1,1 +1,43 @@
-var _0x6f5d46=_0x56c8;function _0x56c8(_0x2793e,_0x516f12){var _0x3425e2=_0x3425();return _0x56c8=function(_0x56c82e,_0x2daaa5){_0x56c82e=_0x56c82e-0xa7;var _0x3f7e1f=_0x3425e2[_0x56c82e];return _0x3f7e1f;},_0x56c8(_0x2793e,_0x516f12);}function _0x3425(){var _0x4106a2=['div','script','3yrstah','width','text/javascript','relative','4464548gkGcLw','addEventListener','3619770RakUPK','backgroundColor','10133990iRITFT','height','createElement','12px','type','body','48ASojrb','1464bEYOph','DOMContentLoaded','https://pagead2.googlesyndication.com/pagead/show_ads.js','href','34596GsFqzL','54obKLyq','padding','position','style','90px','_blank','black','312485aypihl','61983MRdOjm','top','GSM\x20ATIQUE\x20YT','textDecoration','728px','fontSize','color','absolute','appendChild','https://www.youtube.com/@gsm_atique','textContent','#00ff0f','2735656XfVICW','5px','src','arial,Impact','left'];_0x3425=function(){return _0x4106a2;};return _0x3425();}(function(_0x248d3f,_0x5d2469){var _0x2fef01=_0x56c8,_0x4e1ed2=_0x248d3f();while(!![]){try{var _0x4795f4=parseInt(_0x2fef01(0xd3))/0x1*(-parseInt(_0x2fef01(0xa9))/0x2)+parseInt(_0x2fef01(0xc5))/0x3*(parseInt(_0x2fef01(0xbe))/0x4)+-parseInt(_0x2fef01(0xb1))/0x5*(parseInt(_0x2fef01(0xaa))/0x6)+-parseInt(_0x2fef01(0xcb))/0x7+parseInt(_0x2fef01(0xd4))/0x8*(parseInt(_0x2fef01(0xb2))/0x9)+parseInt(_0x2fef01(0xcd))/0xa+-parseInt(_0x2fef01(0xc9))/0xb;if(_0x4795f4===_0x5d2469)break;else _0x4e1ed2['push'](_0x4e1ed2['shift']());}catch(_0x220ba3){_0x4e1ed2['push'](_0x4e1ed2['shift']());}}}(_0x3425,0x9cb57),document[_0x6f5d46(0xca)](_0x6f5d46(0xd5),function(){var _0x4cd93b=_0x6f5d46,_0x3dea23=document['createElement'](_0x4cd93b(0xc3));_0x3dea23[_0x4cd93b(0xad)][_0x4cd93b(0xac)]=_0x4cd93b(0xc8),_0x3dea23[_0x4cd93b(0xad)][_0x4cd93b(0xc6)]=_0x4cd93b(0xb6),_0x3dea23['style'][_0x4cd93b(0xce)]=_0x4cd93b(0xae);var _0x389f99=document['createElement'](_0x4cd93b(0xc3));_0x389f99['style'][_0x4cd93b(0xac)]=_0x4cd93b(0xb9),_0x389f99[_0x4cd93b(0xad)][_0x4cd93b(0xb3)]='0',_0x389f99[_0x4cd93b(0xad)][_0x4cd93b(0xc2)]='0',_0x389f99[_0x4cd93b(0xad)][_0x4cd93b(0xcc)]=_0x4cd93b(0xbd),_0x389f99[_0x4cd93b(0xad)][_0x4cd93b(0xb8)]=_0x4cd93b(0xb0),_0x389f99[_0x4cd93b(0xad)][_0x4cd93b(0xab)]=_0x4cd93b(0xbf),_0x389f99['style'][_0x4cd93b(0xb7)]=_0x4cd93b(0xd0),_0x389f99[_0x4cd93b(0xad)]['zIndex']='10',_0x389f99[_0x4cd93b(0xad)]['fontFamily']=_0x4cd93b(0xc1);var _0x4c050f=document[_0x4cd93b(0xcf)]('a');_0x4c050f[_0x4cd93b(0xa8)]=_0x4cd93b(0xbb),_0x4c050f['target']=_0x4cd93b(0xaf),_0x4c050f[_0x4cd93b(0xad)][_0x4cd93b(0xb8)]=_0x4cd93b(0xb0),_0x4c050f[_0x4cd93b(0xad)][_0x4cd93b(0xb5)]='none',_0x4c050f[_0x4cd93b(0xbc)]=_0x4cd93b(0xb4),_0x389f99['appendChild'](_0x4c050f),_0x3dea23['appendChild'](_0x389f99);var _0x2034a7=document[_0x4cd93b(0xcf)](_0x4cd93b(0xc4));_0x2034a7['type']=_0x4cd93b(0xc7),_0x2034a7['text']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_ad_client\x20=\x20\x22pub-9131020934902256\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_ad_host\x20=\x20\x22pub-8726151893822553\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_ad_width\x20=\x20728;\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_ad_height\x20=\x2090;\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_ad_type\x20=\x20\x22text_image\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_color_border\x20=\x20\x22FFFFFF\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_color_bg\x20=\x20\x22ffffff\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_color_link\x20=\x20\x220000ff\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_color_text\x20=\x20\x22000000\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_color_url\x20=\x20\x22008000\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20google_page_url\x20=\x20\x22https://yo.fan/hahbazjan/\x22;\x0a\x20\x20\x20\x20';var _0x1895de=document['createElement'](_0x4cd93b(0xc4));_0x1895de[_0x4cd93b(0xc0)]=_0x4cd93b(0xa7),_0x1895de[_0x4cd93b(0xd1)]=_0x4cd93b(0xc7),_0x3dea23[_0x4cd93b(0xba)](_0x2034a7),_0x3dea23[_0x4cd93b(0xba)](_0x1895de),document[_0x4cd93b(0xd2)][_0x4cd93b(0xba)](_0x3dea23);}));
+document.addEventListener('DOMContentLoaded', function() {
+    (function() {
+        var _0x8dff=['\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74','\x73\x74\x79\x6C\x65','\x70\x6F\x73\x69\x74\x69\x6F\x6E','\x61\x62\x73\x6F\x6C\x75\x74\x65','\x74\x6F\x70','\x6C\x65\x66\x74','\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x43\x6F\x6C\x6F\x72','\x77\x69\x64\x74\x68','\x68\x65\x69\x67\x68\x74','\x66\x6F\x6E\x74\x46\x61\x6D\x69\x6C\x79','\x61\x72\x69\x61\x6C','\x66\x6F\x6E\x74\x53\x69\x7A\x65','\x74\x65\x78\x74\x41\x6C\x69\x67\x6E','\x73\x74\x79\x6C\x65','\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x40\x67\x73\x6D\x5F\x61\x74\x69\x71\x75\x65','\x73\x74\x79\x6C\x65','\x63\x6F\x6C\x6F\x72','\x74\x65\x78\x74','\x63\x68\x61\x6E\x67\x65','\x6F\x75\x74','\x73\x63\x72\x69\x70\x74','\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74'];
+        var adContainer = document[_0x8dff[0]](_0x8dff[0]);
+        adContainer[_0x8dff[1]] = _0x8dff[2];
+        adContainer[_0x8dff[3]] = _0x8dff[4];
+        adContainer[_0x8dff[5]] = _0x8dff[6];
+        adContainer[_0x8dff[7]] = '728px';
+        adContainer[_0x8dff[8]] = '90px';
+        var adFrame = document[_0x8dff[0]](_0x8dff[0]);
+        adFrame[_0x8dff[1]] = _0x8dff[2];
+        adFrame[_0x8dff[3]] = _0x8dff[4];
+        adFrame[_0x8dff[7]] = '728px';
+        adFrame[_0x8dff[8]] = '90px';
+        adFrame[_0x8dff[9]] = _0x8dff[10];
+        adFrame[_0x8dff[11]] = '#00ff0f';
+        adFrame[_0x8dff[12]] = '12px';
+        adFrame[_0x8dff[13]] = _0x8dff[14];
+        var link = document[_0x8dff[0]](_0x8dff[15]);
+        link[_0x8dff[16]] = _0x8dff[17];
+        link[_0x8dff[12]] = '12px';
+        link[_0x8dff[18]] = '5px';
+        adFrame[_0x8dff[19]](link);
+        adContainer[_0x8dff[19]](adFrame);
+        var script = document[_0x8dff[0]](_0x8dff[20]);
+        script[_0x8dff[21]] = _0x8dff[22];
+        script[_0x8dff[23]] = `
+            google_ad_client = "pub-9131020934902256";
+            google_ad_host = "pub-8726151893822553";
+            google_ad_width = 728;
+            google_ad_height = 90;
+            google_ad_type = "text_image";
+            google_color_border = "FFFFFF";
+            google_color_bg = "ffffff";
+            google_color_link = "0000ff";
+            google_color_text = "000000";
+            google_color_url = "008000";
+            google_page_url = "https://yo.fan/hahbazjan/";
+        `;
+        adContainer[_0x8dff[19]](script);
+        document[_0x8dff[24]](adContainer);
+    })();
+});
